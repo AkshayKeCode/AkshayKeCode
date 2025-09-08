@@ -1,25 +1,39 @@
-# Hi there 👋
-I am a developer from India looking to make the world technologically advanced one day at a time. 
+# 👋 Hi, I’m Akshay
 
-## Languages & Tools
-I am proficient in
-<p>
-    <img align="left" alt="Python" width="45px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-    <img align="left" alt="Java" width="45px"  src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"/>
-    <img align="left" alt="Angular" width="45px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"/>
-    <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+🚀 **A highly organized and detail-oriented Software Engineer**, passionate about building scalable products and making the world technologically advanced one day at a time.
+
+💻 Currently contributing as a **Full Stack Developer** on the **Mutual Funds Platform** of one of the world’s largest financial services firms (**Product Ops & Risk Tech Team**) — supporting **\$1M+ in daily transaction volume** across thousands of mutual fund offerings.
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+---
 
-<br>
+## 🌐 Let’s Connect
 
-<br>  
- 
-## Let's connect
-<p align="left">
-<a href="https://twitter.com/akshayontwt" target="_blank"><img align="center" src="https://louisville.edu/artsandsciences/images/icons/social/twitter-color-transparent.png/image" alt="twitter" alt="twitter" height="60" width="60" /></a> 
- &nbsp;&nbsp;<a href="https://www.linkedin.com/in/21akshay/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
- <a href="https://mail.google.com/mail/u/0/?fs=1&to=in.akshay21@gmail.com&su=Hey+From+GitHub&body=Hello+Akshay,&tf=cm" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="gmail" alt="gmail" height="60" width="60" /></a> 
+<p align="center">
+  <a href="https://twitter.com/akshayontwt" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/21akshay/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:in.akshay21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+
+
