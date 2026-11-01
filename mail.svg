@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Gmail">
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <rect x="10" y="16" width="5" height="17" rx="1" fill="#4285F4"/>
+  <rect x="33" y="16" width="5" height="17" rx="1" fill="#34A853"/>
+  <polygon points="33,16 38,16 38,20 33,20" fill="#FBBC04"/>
+  <path d="M10 16.5 12.2 15 24 24 35.8 15 38 16.5 38 20.5 24 30.5 10 20.5Z" fill="#EA4335"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="gm, I'm Akshay. Product Ops and QA.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9945FF"/>
+      <stop offset="1" stop-color="#14F195"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1b1b2e" stroke-width="1"/>
+    </pattern>
+    <g id="coin-sol"><circle r="47" fill="none" stroke-width="4"/><circle r="38" fill="none" stroke-width="1.5"/>
+      <g stroke="none"><polygon points="-18,-20 25,-20 18,-12 -25,-12"/><polygon points="-25,-4 18,-4 25,4 -18,4"/><polygon points="-18,12 25,12 18,20 -25,20"/></g>
+    </g>
+    <g id="coin-usdc"><circle r="47" fill="none" stroke-width="4"/>
+      <path d="M-26,-22 A34,34 0 0 0 -26,22 M26,-22 A34,34 0 0 1 26,22" fill="none" stroke-width="4.5" stroke-linecap="round"/>
+      <path d="M12,-15 C12,-25 -12,-25 -12,-11 C-12,0 12,0 12,12 C12,26 -12,26 -12,15" fill="none" stroke-width="5"/>
+      <path d="M0,-30 V30" fill="none" stroke-width="3"/>
+    </g>
+    <g id="coin-usdt"><circle r="47" fill="none" stroke-width="4"/><circle r="38" fill="none" stroke-width="1.5"/>
+      <g stroke="none"><rect x="-22" y="-24" width="44" height="9"/><rect x="-5" y="-15" width="10" height="40"/></g>
+      <ellipse cy="-3" rx="27" ry="6" fill="none" stroke-width="2"/>
+    </g>
+  </defs>
+  <rect width="800" height="220" rx="16" fill="#0b0b14"/>
+  <rect width="800" height="220" rx="16" fill="url(#grid)"/>
+  <g fill="url(#g)" stroke="url(#g)" opacity="0.16">
+    <use href="#coin-sol" transform="translate(610 30) rotate(-14) scale(0.5)"/>
+    <use href="#coin-sol" transform="translate(700 104) rotate(12) scale(0.65)"/>
+    <use href="#coin-sol" transform="translate(520 150) rotate(22) scale(0.42)"/>
+    <use href="#coin-sol" transform="translate(764 176) rotate(-20) scale(0.45)"/>
+    <use href="#coin-sol" transform="translate(430 40) rotate(8) scale(0.38)"/>
+  </g>
+  <g fill="#2775CA" stroke="#2775CA" opacity="0.2">
+    <use href="#coin-usdc" transform="translate(650 176) rotate(-8) scale(0.55)"/>
+    <use href="#coin-usdc" transform="translate(560 76) rotate(-30) scale(0.4)"/>
+    <use href="#coin-usdc" transform="translate(398 128) rotate(-12) scale(0.34)"/>
+  </g>
+  <g fill="#26A17B" stroke="#26A17B" opacity="0.2">
+    <use href="#coin-usdt" transform="translate(500 112) rotate(12) scale(0.45)"/>
+    <use href="#coin-usdt" transform="translate(712 150) rotate(-15) scale(0.4)"/>
+    <use href="#coin-usdt" transform="translate(330 40) rotate(-10) scale(0.32)"/>
+  </g>
+  <rect x="1" y="1" width="798" height="218" rx="15" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <text x="48" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="54" font-weight="700" fill="url(#g)">gm, I'm Akshay</text>
+  <text x="48" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#c9c9e3">Product Ops &amp; QA</text>
+  <text x="48" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#7a7a99">Probably thinking about how to make stablecoins more useful.</text>
+  <circle cx="742" cy="44" r="7" fill="#14F195">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="722" y="49" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#7a7a99">online</text>
+</svg>

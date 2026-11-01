@@ -1,39 +1,63 @@
-# 👋 Hi, I’m Akshay
-
-🚀 **A highly organized and detail-oriented Software Engineer**, passionate about building scalable products and making the world technologically advanced one day at a time.
-
-💻 Currently contributing as a **Full Stack Developer** on the **Mutual Funds Platform** of one of the world’s largest financial services firms (**Product Ops & Risk Tech Team**) — supporting **\$1M+ in daily transaction volume** across thousands of mutual fund offerings.
-
----
-
-## 🛠 Languages & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="banner.svg" alt="gm, I'm Akshay. Product Ops and QA." width="100%"/>
 </p>
 
+### 👨‍💻 What I do
+
+**Product Ops and QA at a Web3 internet banking company.**
+
+Making **stablecoins usable with credit cards, international banking rails and more**.
+
+Scaling across **100K+ signups** and **$68M+ in volume**.
+
+I make sure what ships works, and keep the product running smoothly for real users. **UAT, Design, Functionality and clean code**.
+
+### 🛠️ Building on the side
+
+Building personal finance tools, working on **optimising AI agents** and workflows.
+
+### 🎮 Off the clock
+
+Watching F1, playing basketball and trying out **new tech gadgets**.
+
 ---
 
-## 🌐 Let’s Connect
+### 🏛️ Prev
+
+**Full Stack Developer, Capgemini** (Java, Angular) · 2 years
+
+Worked on a **Mutual Funds platform for a global investment bank**, in a **Product Ops & Risk Tech** team.
+
+---
+
+### 💻 Languages
 
 <p align="center">
-  <a href="https://twitter.com/akshayontwt" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/21akshay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:in.akshay21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py&theme=light" width="48" height="48" alt="Python"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" alt="Java"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" alt="TypeScript"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular&theme=dark">
+    <img src="https://skillicons.dev/icons?i=angular&theme=light" width="48" height="48" alt="Angular"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
+    <img src="https://skillicons.dev/icons?i=rust&theme=light" width="48" height="48" alt="Rust"/>
+  </picture>
 </p>
 
----
+### 🌐 Let’s Connect
 
-
-
+<p align="center">
+  <a href="https://twitter.com/akshayontwt" target="_blank" rel="noopener noreferrer"><img src="x.svg" width="48" height="48" alt="X"/></a>&nbsp;&nbsp;
+  <a href="mailto:in.akshay21@gmail.com?subject=Hey%20from%20your%20GitHub&body=Hey%20Akshay%2C%0A%0AHere%20from%20your%20GitHub...%0A"><img src="mail.svg" width="48" height="48" alt="Gmail"/></a>
+</p>
